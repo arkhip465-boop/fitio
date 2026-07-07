@@ -1,0 +1,15 @@
+{
+  "name": "fitio. — ПП Рецепти",
+  "short_name": "fitio.",
+  "description": "Зручні ПП-рецепти, пошук, обране та персональні налаштування.",
+  "lang": "uk",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F1E4",
+  "theme_color": "#76845B",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
